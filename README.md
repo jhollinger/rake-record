@@ -1,6 +1,6 @@
 # rake-record
 
-A sample Rake-only Active Record application.
+A sample Rake-only Active Record application. If you need to build a **real** ActiveRecord application without Rails, check out https://github.com/jhollinger/otr-activerecord (Off The Rails Active Record), a tiny AR bootstrap library.
 
 ## Setup
 
